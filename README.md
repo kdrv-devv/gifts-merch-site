@@ -26,9 +26,10 @@ Bu loyiha React va Tailwind CSS yordamida yaratilgan va unda 3 ta sahifa mavjud.
 
 ---
 
-## 🚀 Qanday qilib ishga tushirish kerak?
+##  Loyihani ishga tushirish uchun :
 
 1. **Repositoryni yuklab oling:**
-   ```bash
-   git clone https://github.com/your-username/project-name.git
+   bash
+   git clone https://github.com/kdrv-devv/gifts-merch-site
    cd project-name
+   npm run dev
